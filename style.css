@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+* {
+  font-weight: bold;
+  color: #ffffff;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(./imagem/pexels-laziii-codar-886317.jpg);
+  background-position-y: 40%;
+
+  min-height: 100vh;
+  overflow: hidden;
+
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 3rem;
+}
+
+.container-count {
+  display: flex;
+  margin-bottom: 4rsem;
+  line-height: 0;
+}
+
+.texto-grande {
+  font-size: 6rem;
+  font-weight: bold;
+  line-height: 1;
+  margin: 0 2rem;
+}
+
+span {
+  font-size: 1.3rem;
+}
+
+.centro {
+  text-align: center;
+}
+
+.centro span {
+  font-size: 1.5rem;
+}
+
+#tema {
+  font-weight: normal;
+  font-size: 3rem;
+}

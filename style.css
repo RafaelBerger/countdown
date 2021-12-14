@@ -30,7 +30,9 @@ h1 {
 
 .container-count {
   display: flex;
-  margin-bottom: 4rsem;
+  flex-wrap: wrap;
+  justify-content: center;
+
   line-height: 0;
 }
 

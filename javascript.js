@@ -14,7 +14,7 @@ function countdown() {
 
   const segundos = Math.floor(segundosTotal % 60);
   const minutos = Math.floor(segundosTotal / 60) % 60;
-  const horas = Math.floor(segundosTotal / 3600) % 60;
+  const horas = Math.floor(segundosTotal / 3600) % 24;
   const dias = Math.floor(segundosTotal / 3600 / 24);
 
   segundosNaTela.innerHTML = converteTempo(segundos);

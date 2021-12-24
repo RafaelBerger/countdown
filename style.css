@@ -59,3 +59,13 @@ span {
   font-weight: normal;
   font-size: 3rem;
 }
+
+@media (max-width: 450px) {
+  .texto-grande {
+    font-size: 4rem;
+  }
+
+  .container-count {
+    height: 40vh;
+  }
+}

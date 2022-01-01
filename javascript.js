@@ -7,7 +7,7 @@ let temaDaContagem = document.querySelector("#tema");
 temaDaContagem.innerHTML = "Ano novo";
 
 function countdown() {
-  const anoNovo = new Date(2022, 0, 1);
+  const anoNovo = new Date(2023, 0, 1);
   const dataAtual = new Date();
 
   const segundosTotal = Math.floor((anoNovo - dataAtual) / 1000);

@@ -4,6 +4,11 @@ Contagem regressiva para uma data específica.
 
 Projeto criado para exercitar minha lógica de programação, ultilizado os objetos Date() e Math().
 
+<div align="left">
+<img src="https://user-images.githubusercontent.com/84355579/153687403-9ebdf277-8806-45d0-a9e3-55a876366a9e.jpg" width="450px" />
+ </div>
+
+
 
 ## Funcionalidades
 
@@ -35,6 +40,9 @@ Countdown to a specific date.
 
 Project created to exercise my programming logic, using the Date() and Math() objects.
 
+<div align="left">
+<img src="https://user-images.githubusercontent.com/84355579/153687403-9ebdf277-8806-45d0-a9e3-55a876366a9e.jpg" width="450px" />
+ </div>
 
 ## Functionalities
 
